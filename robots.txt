@@ -1,0 +1,32 @@
+# 蜜桃 robots.txt - www.mitaocn.cloud
+# 百度SEO优化版本
+
+User-agent: *
+Allow: /
+
+# 百度爬虫
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 1
+
+# 百度移动爬虫
+User-agent: Baiduspider-mobile
+Allow: /
+
+# 百度图片爬虫
+User-agent: Baiduspider-image
+Allow: /statics/picture/
+
+# 百度视频爬虫
+User-agent: Baiduspider-video
+Allow: /videos_index.html
+Allow: /lol_index.html
+Allow: /cf_index.html
+Allow: /wzry_index.html
+Allow: /dnf_index.html
+Allow: /cod_index.html
+Allow: /tft_index.html
+Allow: /entertainment_index.html
+
+# Sitemap
+Sitemap: https://www.mitaocn.cloud/sitemap.xml

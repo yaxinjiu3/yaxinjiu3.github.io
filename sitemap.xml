@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <!-- 蜜桃 sitemap.xml - www.mitaocn.cloud -->
+
+  <url>
+    <loc>https://www.mitaocn.cloud/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mitaocn.cloud/videos_index.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://www.mitaocn.cloud/statics/picture/hero-lol.jpg</video:thumbnail_loc>
+      <video:title>蜜桃精选游戏视频合集</video:title>
+      <video:description>蜜桃精选游戏视频，包含英雄联盟、穿越火线、王者荣耀等热门游戏视频教程与游戏解说视频</video:description>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.mitaocn.cloud/lol_index.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://www.mitaocn.cloud/statics/picture/hero-lol.jpg</video:thumbnail_loc>
+      <video:title>蜜桃英雄联盟视频专区</video:title>
+      <video:description>蜜桃英雄联盟视频教程、游戏解说视频与赛事视频，每日更新LOL最新游戏视频内容</video:description>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.mitaocn.cloud/cf_index.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://www.mitaocn.cloud/statics/picture/hero-cf.jpg</video:thumbnail_loc>
+      <video:title>蜜桃穿越火线视频专区</video:title>
+      <video:description>蜜桃穿越火线视频教程、游戏解说视频与赛事视频，每日更新CF最新游戏视频内容</video:description>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.mitaocn.cloud/wzry_index.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://www.mitaocn.cloud/statics/picture/hero-wzry.jpg</video:thumbnail_loc>
+      <video:title>蜜桃王者荣耀视频专区</video:title>
+      <video:description>蜜桃王者荣耀视频教程、游戏解说视频与英雄攻略，每日更新王者最新游戏视频内容</video:description>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.mitaocn.cloud/dnf_index.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://www.mitaocn.cloud/statics/picture/hero-dnf.jpg</video:thumbnail_loc>
+      <video:title>蜜桃 DNF地下城视频专区</video:title>
+      <video:description>蜜桃 DNF地下城与勇士视频教程、游戏解说视频与副本攻略，每日更新DNF最新游戏视频</video:description>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.mitaocn.cloud/cod_index.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://www.mitaocn.cloud/statics/picture/hero-cf.jpg</video:thumbnail_loc>
+      <video:title>蜜桃使命召唤视频专区</video:title>
+      <video:description>蜜桃使命召唤视频教程、游戏解说视频与武器攻略，每日更新COD最新游戏视频内容</video:description>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.mitaocn.cloud/tft_index.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://www.mitaocn.cloud/statics/picture/hero-lol.jpg</video:thumbnail_loc>
+      <video:title>蜜桃金铲铲之战视频专区</video:title>
+      <video:description>蜜桃金铲铲之战视频教程、游戏解说视频与阵容攻略，每日更新TFT最新游戏视频内容</video:description>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.mitaocn.cloud/community_index.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mitaocn.cloud/ai_index.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mitaocn.cloud/entertainment_index.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://www.mitaocn.cloud/statics/picture/hero-community.jpg</video:thumbnail_loc>
+      <video:title>蜜桃娱乐专区视频</video:title>
+      <video:description>蜜桃娱乐专区，TikTok风格短视频、游戏MV、幕后花絮等多元化游戏视频内容</video:description>
+    </video:video>
+  </url>
+
+  <url>
+    <loc>https://www.mitaocn.cloud/creator_index.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mitaocn.cloud/about_index.html</loc>
+    <lastmod>2026-11-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
